@@ -1,0 +1,22 @@
+#countLable{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Helvetica;
+}
+#bt_container{
+    text-align: center;
+}
+.button{
+    padding: 10px 20px;
+    font-size: 1.6em;
+    color: rgb(255, 255, 255);
+    background-color: rgba(8, 139, 239, 0.541);
+    border-radius: 150px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.button-hover{
+    background-color: rgba(13, 68, 109, 0.971);
+    
+}
